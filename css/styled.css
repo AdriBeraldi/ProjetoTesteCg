@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    background-color: blue;
+    font-style: italic;
+    color: black;
+    font-weight: 200%;
+}
+
+p{
+    font-size: larger;
+    font-weight: 100%;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    background-color: aquamarine;
+}
+
+
